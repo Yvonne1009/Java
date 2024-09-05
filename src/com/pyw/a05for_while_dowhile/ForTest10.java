@@ -10,6 +10,7 @@ public class ForTest10 {
         //TODO 猜数小游戏
         Scanner sc = new Scanner(System.in);
         int num;
+        //計數器
         int count = 0;
         Random r = new Random();
         //随机数生成 r.nextInt()生成范围为 0~输入的参数.
