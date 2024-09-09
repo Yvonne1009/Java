@@ -18,6 +18,7 @@ public class GoodsTest {
         
         //4.遍历数组
         for (int i = 0; i < goods.length; i++) {
+            // i 索引 arrp[i] 元素
             System.out.println(goods[i].toString());
         }
     }
